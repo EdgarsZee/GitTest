@@ -1,3 +1,3 @@
 # Hello
 
-# Hello my name is Edgars
+# my name is Edgars
